@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ECommerece.ServiceAbstraction/1.0.0": {
+        "dependencies": {
+          "ECommerece.Shared": "1.0.0"
+        },
+        "runtime": {
+          "ECommerece.ServiceAbstraction.dll": {}
+        }
+      },
+      "ECommerece.Shared/1.0.0": {
+        "runtime": {
+          "ECommerece.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ECommerece.ServiceAbstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ECommerece.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

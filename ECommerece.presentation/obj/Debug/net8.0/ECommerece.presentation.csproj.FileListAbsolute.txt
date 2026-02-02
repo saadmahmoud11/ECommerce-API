@@ -1,0 +1,17 @@
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\bin\Debug\net8.0\ECommerece.presentation.deps.json
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\bin\Debug\net8.0\ECommerece.presentation.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\bin\Debug\net8.0\ECommerece.presentation.pdb
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\bin\Debug\net8.0\ECommerece.ServiceAbstraction.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\bin\Debug\net8.0\ECommerece.Shared.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\bin\Debug\net8.0\ECommerece.ServiceAbstraction.pdb
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\bin\Debug\net8.0\ECommerece.Shared.pdb
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\obj\Debug\net8.0\ECommerece.presentation.csproj.AssemblyReference.cache
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\obj\Debug\net8.0\ECommerece.presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\obj\Debug\net8.0\ECommerece.presentation.AssemblyInfoInputs.cache
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\obj\Debug\net8.0\ECommerece.presentation.AssemblyInfo.cs
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\obj\Debug\net8.0\ECommerece.presentation.csproj.CoreCompileInputs.cache
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\obj\Debug\net8.0\ECommere.BD90D4B9.Up2Date
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\obj\Debug\net8.0\ECommerece.presentation.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\obj\Debug\net8.0\refint\ECommerece.presentation.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\obj\Debug\net8.0\ECommerece.presentation.pdb
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\obj\Debug\net8.0\ref\ECommerece.presentation.dll

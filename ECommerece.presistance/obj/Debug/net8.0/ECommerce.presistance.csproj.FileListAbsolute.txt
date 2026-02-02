@@ -1,0 +1,5 @@
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presistance\obj\Debug\net8.0\ECommerce.presistance.csproj.AssemblyReference.cache
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presistance\obj\Debug\net8.0\ECommerce.presistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presistance\obj\Debug\net8.0\ECommerce.presistance.AssemblyInfoInputs.cache
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presistance\obj\Debug\net8.0\ECommerce.presistance.AssemblyInfo.cs
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presistance\obj\Debug\net8.0\ECommerce.presistance.csproj.CoreCompileInputs.cache

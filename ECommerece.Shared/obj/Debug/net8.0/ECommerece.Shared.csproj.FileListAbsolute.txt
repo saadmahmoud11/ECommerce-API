@@ -1,0 +1,11 @@
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Shared\bin\Debug\net8.0\ECommerece.Shared.deps.json
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Shared\bin\Debug\net8.0\ECommerece.Shared.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Shared\bin\Debug\net8.0\ECommerece.Shared.pdb
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Shared\obj\Debug\net8.0\ECommerece.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Shared\obj\Debug\net8.0\ECommerece.Shared.AssemblyInfoInputs.cache
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Shared\obj\Debug\net8.0\ECommerece.Shared.AssemblyInfo.cs
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Shared\obj\Debug\net8.0\ECommerece.Shared.csproj.CoreCompileInputs.cache
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Shared\obj\Debug\net8.0\ECommerece.Shared.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Shared\obj\Debug\net8.0\refint\ECommerece.Shared.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Shared\obj\Debug\net8.0\ECommerece.Shared.pdb
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Shared\obj\Debug\net8.0\ref\ECommerece.Shared.dll

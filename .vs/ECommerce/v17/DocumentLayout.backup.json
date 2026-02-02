@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93F2D2EE-E289-45FD-B5AF-468A98E20C8A}|ECommerece.Service\\ECommerece.Service.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerece.service\\specifications\\productwithbrandandtypespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F2D2EE-E289-45FD-B5AF-468A98E20C8A}|ECommerece.Service\\ECommerece.Service.csproj|solutionrelative:ecommerece.service\\specifications\\productwithbrandandtypespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2420F85B-7087-4277-8DB2-A30C464AADDC}|ECommerece.Shared\\ECommerece.Shared.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerece.shared\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2420F85B-7087-4277-8DB2-A30C464AADDC}|ECommerece.Shared\\ECommerece.Shared.csproj|solutionrelative:ecommerece.shared\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AC4A2A-95DC-4AED-872F-3BA9109E7C3F}|ECommerece.presistance\\ECommerece.presistance.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerece.presistance\\specificationsevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AC4A2A-95DC-4AED-872F-3BA9109E7C3F}|ECommerece.presistance\\ECommerece.presistance.csproj|solutionrelative:ecommerece.presistance\\specificationsevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F2D2EE-E289-45FD-B5AF-468A98E20C8A}|ECommerece.Service\\ECommerece.Service.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerece.service\\specifications\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F2D2EE-E289-45FD-B5AF-468A98E20C8A}|ECommerece.Service\\ECommerece.Service.csproj|solutionrelative:ecommerece.service\\specifications\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06676DA-041B-421B-8A16-31E4B4BDFE9F}|ECommerece.Domain\\ECommerece.Domain.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerece.domain\\contracts\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06676DA-041B-421B-8A16-31E4B4BDFE9F}|ECommerece.Domain\\ECommerece.Domain.csproj|solutionrelative:ecommerece.domain\\contracts\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2420F85B-7087-4277-8DB2-A30C464AADDC}|ECommerece.Shared\\ECommerece.Shared.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerece.shared\\productsortingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2420F85B-7087-4277-8DB2-A30C464AADDC}|ECommerece.Shared\\ECommerece.Shared.csproj|solutionrelative:ecommerece.shared\\productsortingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4103FE-08F6-4395-9F84-FBD8A98AE86A}|ECommerece.presentation\\ECommerece.presentation.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerece.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4103FE-08F6-4395-9F84-FBD8A98AE86A}|ECommerece.presentation\\ECommerece.presentation.csproj|solutionrelative:ecommerece.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F2D2EE-E289-45FD-B5AF-468A98E20C8A}|ECommerece.Service\\ECommerece.Service.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerece.service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F2D2EE-E289-45FD-B5AF-468A98E20C8A}|ECommerece.Service\\ECommerece.Service.csproj|solutionrelative:ecommerece.service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3B8952-1CC2-465D-8734-A42308937D6C}|ECommerece.ServiceAbstraction\\ECommerece.ServiceAbstraction.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerece.serviceabstraction\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3B8952-1CC2-465D-8734-A42308937D6C}|ECommerece.ServiceAbstraction\\ECommerece.ServiceAbstraction.csproj|solutionrelative:ecommerece.serviceabstraction\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06676DA-041B-421B-8A16-31E4B4BDFE9F}|ECommerece.Domain\\ECommerece.Domain.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerece.domain\\entities\\productmodule\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06676DA-041B-421B-8A16-31E4B4BDFE9F}|ECommerece.Domain\\ECommerece.Domain.csproj|solutionrelative:ecommerece.domain\\entities\\productmodule\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F2D2EE-E289-45FD-B5AF-468A98E20C8A}|ECommerece.Service\\ECommerece.Service.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerece.service\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F2D2EE-E289-45FD-B5AF-468A98E20C8A}|ECommerece.Service\\ECommerece.Service.csproj|solutionrelative:ecommerece.service\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2420F85B-7087-4277-8DB2-A30C464AADDC}|ECommerece.Shared\\ECommerece.Shared.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerece.shared\\productdtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2420F85B-7087-4277-8DB2-A30C464AADDC}|ECommerece.Shared\\ECommerece.Shared.csproj|solutionrelative:ecommerece.shared\\productdtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F2D2EE-E289-45FD-B5AF-468A98E20C8A}|ECommerece.Service\\ECommerece.Service.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerece.service\\mappingprofiles\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F2D2EE-E289-45FD-B5AF-468A98E20C8A}|ECommerece.Service\\ECommerece.Service.csproj|solutionrelative:ecommerece.service\\mappingprofiles\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AC4A2A-95DC-4AED-872F-3BA9109E7C3F}|ECommerece.presistance\\ECommerece.presistance.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerece.presistance\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AC4A2A-95DC-4AED-872F-3BA9109E7C3F}|ECommerece.presistance\\ECommerece.presistance.csproj|solutionrelative:ecommerece.presistance\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06676DA-041B-421B-8A16-31E4B4BDFE9F}|ECommerece.Domain\\ECommerece.Domain.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerece.domain\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06676DA-041B-421B-8A16-31E4B4BDFE9F}|ECommerece.Domain\\ECommerece.Domain.csproj|solutionrelative:ecommerece.domain\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64BE98F-53A2-4D0A-AC86-802BE9421808}|ECommerceWeb\\ECommerceWeb.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerceweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64BE98F-53A2-4D0A-AC86-802BE9421808}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F2D2EE-E289-45FD-B5AF-468A98E20C8A}|ECommerece.Service\\ECommerece.Service.csproj|c:\\users\\el-manfy\\source\\repos\\ecommerce\\ecommerece.service\\serviceassemplyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F2D2EE-E289-45FD-B5AF-468A98E20C8A}|ECommerece.Service\\ECommerece.Service.csproj|solutionrelative:ecommerece.service\\serviceassemplyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductQueryParams.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Shared\\ProductQueryParams.cs",
+              "RelativeDocumentMoniker": "ECommerece.Shared\\ProductQueryParams.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Shared\\ProductQueryParams.cs",
+              "RelativeToolTip": "ECommerece.Shared\\ProductQueryParams.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:22:27.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductWithBrandAndTypeSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Service\\Specifications\\ProductWithBrandAndTypeSpecification.cs",
+              "RelativeDocumentMoniker": "ECommerece.Service\\Specifications\\ProductWithBrandAndTypeSpecification.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Service\\Specifications\\ProductWithBrandAndTypeSpecification.cs",
+              "RelativeToolTip": "ECommerece.Service\\Specifications\\ProductWithBrandAndTypeSpecification.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswDAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T21:03:41.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpecificationsEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.presistance\\SpecificationsEvaluator.cs",
+              "RelativeDocumentMoniker": "ECommerece.presistance\\SpecificationsEvaluator.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.presistance\\SpecificationsEvaluator.cs",
+              "RelativeToolTip": "ECommerece.presistance\\SpecificationsEvaluator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T20:44:38.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseSpecifications.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Service\\Specifications\\BaseSpecifications.cs",
+              "RelativeDocumentMoniker": "ECommerece.Service\\Specifications\\BaseSpecifications.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Service\\Specifications\\BaseSpecifications.cs",
+              "RelativeToolTip": "ECommerece.Service\\Specifications\\BaseSpecifications.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T20:20:23.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISpecifications.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Domain\\Contracts\\ISpecifications.cs",
+              "RelativeDocumentMoniker": "ECommerece.Domain\\Contracts\\ISpecifications.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Domain\\Contracts\\ISpecifications.cs",
+              "RelativeToolTip": "ECommerece.Domain\\Contracts\\ISpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T20:15:18.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductSortingOptions.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Shared\\ProductSortingOptions.cs",
+              "RelativeDocumentMoniker": "ECommerece.Shared\\ProductSortingOptions.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Shared\\ProductSortingOptions.cs",
+              "RelativeToolTip": "ECommerece.Shared\\ProductSortingOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:54:31.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ECommerece.presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ECommerece.presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T19:41:57.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "ECommerece.Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Service\\ProductService.cs",
+              "RelativeToolTip": "ECommerece.Service\\ProductService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T21:20:06.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.ServiceAbstraction\\IProductService.cs",
+              "RelativeDocumentMoniker": "ECommerece.ServiceAbstraction\\IProductService.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.ServiceAbstraction\\IProductService.cs",
+              "RelativeToolTip": "ECommerece.ServiceAbstraction\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:06:55.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Domain\\Entities\\ProductModule\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerece.Domain\\Entities\\ProductModule\\Product.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Domain\\Entities\\ProductModule\\Product.cs",
+              "RelativeToolTip": "ECommerece.Domain\\Entities\\ProductModule\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:18:31.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Service\\MappingProfiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "ECommerece.Service\\MappingProfiles\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Service\\MappingProfiles\\ProductProfile.cs",
+              "RelativeToolTip": "ECommerece.Service\\MappingProfiles\\ProductProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T18:39:57.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Shared\\ProductDTOS\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "ECommerece.Shared\\ProductDTOS\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Shared\\ProductDTOS\\ProductDTO.cs",
+              "RelativeToolTip": "ECommerece.Shared\\ProductDTOS\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:18:17.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductPictureUrlResolver.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Service\\MappingProfiles\\ProductPictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "ECommerece.Service\\MappingProfiles\\ProductPictureUrlResolver.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Service\\MappingProfiles\\ProductPictureUrlResolver.cs",
+              "RelativeToolTip": "ECommerece.Service\\MappingProfiles\\ProductPictureUrlResolver.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T18:46:47.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.presistance\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ECommerece.presistance\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.presistance\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "ECommerece.presistance\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T20:03:16.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Domain\\Contracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "ECommerece.Domain\\Contracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Domain\\Contracts\\IGenericRepository.cs",
+              "RelativeToolTip": "ECommerece.Domain\\Contracts\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T09:52:01.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceAssemplyReference.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Service\\ServiceAssemplyReference.cs",
+              "RelativeDocumentMoniker": "ECommerece.Service\\ServiceAssemplyReference.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerece.Service\\ServiceAssemplyReference.cs",
+              "RelativeToolTip": "ECommerece.Service\\ServiceAssemplyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T19:21:42.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerceWeb\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\EL-Manfy\\source\\repos\\ECommerce\\ECommerceWeb\\Program.cs",
+              "RelativeToolTip": "ECommerceWeb\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T12:16:47.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
