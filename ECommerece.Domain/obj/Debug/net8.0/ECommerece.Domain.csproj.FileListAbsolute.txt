@@ -9,3 +9,5 @@ C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Domain\obj\Debug\net8.0\ECom
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Domain\obj\Debug\net8.0\refint\ECommerece.Domain.dll
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Domain\obj\Debug\net8.0\ECommerece.Domain.pdb
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Domain\obj\Debug\net8.0\ref\ECommerece.Domain.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Domain\obj\Debug\net8.0\ECommerece.Domain.sourcelink.json
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Domain\obj\Debug\net8.0\ECommerece.Domain.csproj.AssemblyReference.cache

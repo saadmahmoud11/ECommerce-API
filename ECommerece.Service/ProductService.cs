@@ -1,9 +1,11 @@
 ﻿using AutoMapper;
 using ECommerece.Domain.Contracts;
 using ECommerece.Domain.Entities.ProductModule;
+using ECommerece.Service.Exceptions;
 using ECommerece.Service.Specifications;
 using ECommerece.ServiceAbstraction;
 using ECommerece.Shared;
+using ECommerece.Shared.CommonResult;
 using ECommerece.Shared.ProductDTOS;
 
 namespace ECommerece.Service;
@@ -39,9 +41,16 @@ public class ProductService : IProductService
         return _mapper.Map<IEnumerable<TypeDTO>>(types);
     }
 
-    public async Task<ProductDTO?> GetProductByIdAsync(int id)
+    public async Task<Result<ProductDTO>> GetProductByIdAsync(int id)
     { var spec = new ProductWithBrandAndTypeSpecification(id);
         var product = await  _unitOfWork.GetRepository<Product,int>().GetByIdAsync(spec);
+        if (product is null)
+        {
+            return Error.NotFound(
+                code: "Product.NotFound",
+                description: $"Product with id {id} not found"
+                );
+        }
         return _mapper.Map<ProductDTO>(product);
     }
 }

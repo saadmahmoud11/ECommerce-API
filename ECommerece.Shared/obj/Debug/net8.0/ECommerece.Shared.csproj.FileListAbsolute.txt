@@ -9,3 +9,4 @@ C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Shared\obj\Debug\net8.0\ECom
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Shared\obj\Debug\net8.0\refint\ECommerece.Shared.dll
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Shared\obj\Debug\net8.0\ECommerece.Shared.pdb
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Shared\obj\Debug\net8.0\ref\ECommerece.Shared.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Shared\obj\Debug\net8.0\ECommerece.Shared.sourcelink.json

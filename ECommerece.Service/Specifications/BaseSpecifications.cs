@@ -23,9 +23,9 @@ public class BaseSpecifications<T, TKey> : ISpecifications<T, TKey> where T : Ba
     #endregion
 
     #region order by
-    public Expression<Func<T, object>> OrderBy { get; private set; }
+    public Expression<Func<T, object>>? OrderBy { get; private set; }
 
-    public Expression<Func<T, object>> OrderByDescending { get; private set; }
+    public Expression<Func<T, object>>? OrderByDescending { get; private set; }
 
     protected void AddOrderBy(Expression<Func<T, object>> orderByExpression)
     {

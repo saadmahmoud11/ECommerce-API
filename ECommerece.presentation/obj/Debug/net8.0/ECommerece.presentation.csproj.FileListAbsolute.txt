@@ -15,3 +15,4 @@ C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\obj\Debug\net8.
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\obj\Debug\net8.0\refint\ECommerece.presentation.dll
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\obj\Debug\net8.0\ECommerece.presentation.pdb
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\obj\Debug\net8.0\ref\ECommerece.presentation.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.presentation\obj\Debug\net8.0\ECommerece.presentation.sourcelink.json

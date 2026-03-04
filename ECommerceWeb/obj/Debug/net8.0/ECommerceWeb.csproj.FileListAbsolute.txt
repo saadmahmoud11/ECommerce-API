@@ -184,3 +184,9 @@ C:\Users\EL-Manfy\source\repos\ECommerce\ECommerceWeb\obj\Debug\net8.0\ECommerce
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerceWeb\obj\Debug\net8.0\ECommerceWeb.genruntimeconfig.cache
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerceWeb\obj\Debug\net8.0\ref\ECommerceWeb.dll
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerceWeb\bin\Debug\net8.0\ECommerceWeb.staticwebassets.runtime.json
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerceWeb\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerceWeb\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerceWeb\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerceWeb\obj\Debug\net8.0\ECommerceWeb.sourcelink.json
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerceWeb\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerceWeb\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -17,3 +17,4 @@ C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Service\obj\Debug\net8.0\ECo
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Service\obj\Debug\net8.0\refint\ECommerece.Service.dll
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Service\obj\Debug\net8.0\ECommerece.Service.pdb
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Service\obj\Debug\net8.0\ref\ECommerece.Service.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.Service\obj\Debug\net8.0\ECommerece.Service.sourcelink.json

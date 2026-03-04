@@ -556,6 +556,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.24, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -1403,6 +1409,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.12, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.11.0, )"
             }
           },
           "imports": [
@@ -2256,9 +2266,17 @@
               "target": "Package",
               "version": "[14.0.0, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.24, )"
+            },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[50.4.0, )"
             }
           },
           "imports": [

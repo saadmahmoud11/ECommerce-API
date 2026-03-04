@@ -13,3 +13,4 @@ C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.ServiceAbstraction\obj\Debug
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.ServiceAbstraction\obj\Debug\net8.0\refint\ECommerece.ServiceAbstraction.dll
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.ServiceAbstraction\obj\Debug\net8.0\ECommerece.ServiceAbstraction.pdb
 C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.ServiceAbstraction\obj\Debug\net8.0\ref\ECommerece.ServiceAbstraction.dll
+C:\Users\EL-Manfy\source\repos\ECommerce\ECommerece.ServiceAbstraction\obj\Debug\net8.0\ECommerece.ServiceAbstraction.sourcelink.json

@@ -1,13 +1,15 @@
-﻿using ECommerece.ServiceAbstraction;
+﻿using ECommerece.presentation.Attributes;
+using ECommerece.ServiceAbstraction;
 using ECommerece.Shared;
 using ECommerece.Shared.ProductDTOS;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ECommerece.presentation.Controllers;
 
-[ApiController]
-[Route("api/[controller]")]
-public class ProductController : ControllerBase
+
+public class ProductController : ApiBaseController
 {
     private readonly IProductService _productService;
 
@@ -17,7 +19,9 @@ public class ProductController : ControllerBase
     }
     // GET: baseurl/api/product
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<ProductDTO>>> GetAllProducts([FromQuery]ProductQueryParams queryParams )
+    [RedisCash]
+    [Authorize]
+    public async Task<ActionResult<IEnumerable<ProductDTO>>> GetAllProducts([FromQuery] ProductQueryParams queryParams)
     {
         var products = await _productService.GetAllProductsAsync(queryParams);
         return Ok(products);
@@ -26,8 +30,8 @@ public class ProductController : ControllerBase
     [HttpGet("{id}")]
     public async Task<ActionResult<ProductDTO>> GetProduct(int id)
     {
-        var product = await _productService.GetProductByIdAsync(id);
-        return Ok(product);
+        var result = await _productService.GetProductByIdAsync(id);
+        return HandleResult<ProductDTO>(result);
     }
 
     // GET: baseurl/api/product/brands
@@ -46,3 +50,4 @@ public class ProductController : ControllerBase
         return Ok(types);
     }
 }
+
